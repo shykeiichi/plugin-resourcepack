@@ -11,11 +11,20 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:gui/gui_home.png",
+            "file": "minecraft:gui/home.png",
             "ascent": 7,
             "height": 170,
             "chars": [
                 "\uEff1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/forge.png",
+            "ascent": 7,
+            "height": 170,
+            "chars": [
+                "\uEff2"
             ]
         },
         {
