@@ -267,6 +267,24 @@
             "chars": [
                 "\uEf26"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/heart.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uFa01"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/skull.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uFa02"
+            ]
         }
     ]
 }
