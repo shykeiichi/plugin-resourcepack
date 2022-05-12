@@ -272,7 +272,7 @@
             "type": "bitmap",
             "file": "minecraft:emoji/heart.png",
             "ascent": 7,
-            "height": 7,
+            "height": 13,
             "chars": [
                 "\uEf27"
             ]
@@ -281,7 +281,7 @@
             "type": "bitmap",
             "file": "minecraft:emoji/skull.png",
             "ascent": 7,
-            "height": 7,
+            "height": 13,
             "chars": [
                 "\uEf28"
             ]
