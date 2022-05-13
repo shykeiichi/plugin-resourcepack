@@ -274,7 +274,7 @@
             "ascent": 7,
             "height": 7,
             "chars": [
-                "\uEf27"
+                "\uEF74"
             ]
         },
         {
@@ -283,7 +283,16 @@
             "ascent": 7,
             "height": 7,
             "chars": [
-                "\uEf28"
+                "\uEF75"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:recipe/builderswand.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\uEFD8"
             ]
         }
     ]
