@@ -36,7 +36,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/al.png",
+            "file": "minecraft:letters/lowercase/al.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -45,7 +45,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/bl.png",
+            "file": "minecraft:letters/lowercase/bl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -54,7 +54,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/cl.png",
+            "file": "minecraft:letters/lowercase/cl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -63,7 +63,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/dl.png",
+            "file": "minecraft:letters/lowercase/dl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -72,7 +72,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/el.png",
+            "file": "minecraft:letters/lowercase/el.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -81,7 +81,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/fl.png",
+            "file": "minecraft:letters/lowercase/fl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -90,7 +90,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/gl.png",
+            "file": "minecraft:letters/lowercase/gl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -99,7 +99,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/hl.png",
+            "file": "minecraft:letters/lowercase/hl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -108,7 +108,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/il.png",
+            "file": "minecraft:letters/lowercase/il.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -117,7 +117,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/jl.png",
+            "file": "minecraft:letters/lowercase/jl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -126,7 +126,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/kl.png",
+            "file": "minecraft:letters/lowercase/kl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -135,7 +135,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/ll.png",
+            "file": "minecraft:letters/lowercase/ll.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -144,7 +144,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/ml.png",
+            "file": "minecraft:letters/lowercase/ml.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -153,7 +153,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/nl.png",
+            "file": "minecraft:letters/lowercase/nl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -162,7 +162,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/ol.png",
+            "file": "minecraft:letters/lowercase/ol.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -171,7 +171,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/pl.png",
+            "file": "minecraft:letters/lowercase/pl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -180,7 +180,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/ql.png",
+            "file": "minecraft:letters/lowercase/ql.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -189,7 +189,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/rl.png",
+            "file": "minecraft:letters/lowercase/rl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -198,7 +198,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/sl.png",
+            "file": "minecraft:letters/lowercase/sl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -207,7 +207,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/tl.png",
+            "file": "minecraft:letters/lowercase/tl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -216,7 +216,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/ul.png",
+            "file": "minecraft:letters/lowercase/ul.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -225,7 +225,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/vl.png",
+            "file": "minecraft:letters/lowercase/vl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -234,7 +234,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/wl.png",
+            "file": "minecraft:letters/lowercase/wl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -243,7 +243,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/xl.png",
+            "file": "minecraft:letters/lowercase/xl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -252,7 +252,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/yl.png",
+            "file": "minecraft:letters/lowercase/yl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -261,11 +261,245 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:letters/zl.png",
+            "file": "minecraft:letters/lowercase/zl.png",
             "ascent": 7,
             "height": 7,
             "chars": [
                 "\uEf26"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/al.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uFe01"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/bl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe02"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/cl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe03"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/dl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe04"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/el.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe05"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/fl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe06"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/gl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe07"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/hl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe08"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/il.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe09"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/jl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe10"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/kl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe11"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/ll.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe12"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/ml.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe13"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/nl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe14"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/ol.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe15"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/pl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe16"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/ql.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe17"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/rl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe18"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/sl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe19"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/tl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe20"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/ul.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe21"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/vl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe22"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/wl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe23"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/xl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe24"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/yl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe25"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/uppercase/zl.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEe26"
             ]
         },
         {
