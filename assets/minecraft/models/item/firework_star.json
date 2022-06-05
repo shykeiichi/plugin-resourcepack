@@ -16,6 +16,30 @@
                 "custom_model_data": 1003
             },
             "model": "custom/rocks/rock_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1010
+            },
+            "model": "custom/paper/paper_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1011
+            },
+            "model": "custom/paper/paper_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1015
+            },
+            "model": "custom/planks/planks_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1016
+            },
+            "model": "custom/planks/planks_2"
         }
     ]
 }

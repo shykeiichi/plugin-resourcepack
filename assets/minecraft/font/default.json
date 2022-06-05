@@ -504,6 +504,24 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:letters/symbols/slash.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEF72"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:letters/spacer.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEF73"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:emoji/heart.png",
             "ascent": 7,
             "height": 7,
