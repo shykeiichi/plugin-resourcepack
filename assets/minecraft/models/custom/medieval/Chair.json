@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "models/medieval/chair/Pillow",
-		"1": "models/medieval/chair/chairBase",
-		"2": "models/medieval/chair/chairLeg",
-		"3": "models/medieval/chair/chairLegSupport",
-		"particle": "models/medieval/chair/Pillow"
+		"0": "models/medieval/chair/pillow",
+		"1": "models/medieval/chair/chair_base",
+		"2": "models/medieval/chair/chair_leg",
+		"3": "models/medieval/chair/chair_leg_support",
+		"particle": "models/medieval/chair/pillow"
 	},
 	"elements": [
 		{

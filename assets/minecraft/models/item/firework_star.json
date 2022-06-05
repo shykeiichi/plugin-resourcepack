@@ -9,7 +9,13 @@
             "predicate": {
                 "custom_model_data": 1002
             },
-            "model": "custom/medieval/Chair"
+            "model": "custom/medieval/chair"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003
+            },
+            "model": "custom/rocks/rock_1"
         }
     ]
 }
