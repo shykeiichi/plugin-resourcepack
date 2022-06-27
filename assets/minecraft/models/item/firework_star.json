@@ -43,6 +43,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 1017
+            },
+            "model": "custom/modern/globe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1030
             },
             "model": "custom/medieval/chairbottom"
