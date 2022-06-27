@@ -7,15 +7,15 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 1002
-            },
-            "model": "custom/medieval/chair"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 1003
             },
             "model": "custom/rocks/rock_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1004
+            },
+            "model": "custom/rocks/rock_2"
         },
         {
             "predicate": {
@@ -40,6 +40,90 @@
                 "custom_model_data": 1016
             },
             "model": "custom/planks/planks_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1030
+            },
+            "model": "custom/medieval/chairbottom"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1031
+            },
+            "model": "custom/medieval/chairback"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1032
+            },
+            "model": "custom/medieval/benchrightbottom"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1033
+            },
+            "model": "custom/medieval/benchrightback"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1034
+            },
+            "model": "custom/medieval/benchleftbottom"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1035
+            },
+            "model": "custom/medieval/benchleftback"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1036
+            },
+            "model": "custom/pride/prideflag"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1037
+            },
+            "model": "custom/pride/transflag"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1038
+            },
+            "model": "custom/pride/nonbinaryflag"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1039
+            },
+            "model": "custom/pride/lesbianflag"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1040
+            },
+            "model": "custom/pride/gayflag"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1041
+            },
+            "model": "custom/pride/panflag"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1042
+            },
+            "model": "custom/pride/biflag"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1043
+            },
+            "model": "custom/pride/aceflag"
         }
     ]
 }
