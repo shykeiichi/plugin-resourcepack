@@ -19,6 +19,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 1005
+            },
+            "model": "custom/rocks/rock_3"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1010
             },
             "model": "custom/paper/paper_1"
@@ -130,6 +136,18 @@
                 "custom_model_data": 1043
             },
             "model": "custom/pride/aceflag"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1044
+            },
+            "model": "custom/blocks/stone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1050
+            },
+            "model": "custom/bushes/oakbush_1"
         }
     ]
 }
