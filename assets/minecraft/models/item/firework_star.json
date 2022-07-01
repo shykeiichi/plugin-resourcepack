@@ -148,6 +148,25 @@
                 "custom_model_data": 1050
             },
             "model": "custom/bushes/oakbush_1"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 1051
+            },
+            "model": "custom/statue/technobladebottom"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1052
+            },
+            "model": "custom/statue/technobladetop"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1053
+            },
+            "model": "custom/statue/technobladesword"
         }
     ]
 }

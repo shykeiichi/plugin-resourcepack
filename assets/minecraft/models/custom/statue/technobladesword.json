@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "models/statue/technobladesword",
+		"particle": "models/statue/technobladesword"
+	},
+	"elements": [
+		{
+			"from": [2.8, -16, 3],
+			"to": [6.8, -6, 7],
+			"rotation": {"angle": 45, "axis": "x", "origin": [-3, -38, -17]},
+			"faces": {
+				"north": {"uv": [0, 11.55, 1.75, 16], "texture": "#0"},
+				"east": {"uv": [0, 11.55, 1.75, 16], "texture": "#0"},
+				"south": {"uv": [0, 11.5, 1.75, 16], "texture": "#0"},
+				"west": {"uv": [0, 11.55, 1.75, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 15.11111, 1.11111, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2.8, -6, 1],
+			"to": [6.8, -4, 9],
+			"rotation": {"angle": 45, "axis": "x", "origin": [-3, -38, -17]},
+			"faces": {
+				"north": {"uv": [0, 10.66667, 3.11111, 10.77778], "texture": "#0"},
+				"east": {"uv": [0, 10.66667, 2, 10.77778], "texture": "#0"},
+				"south": {"uv": [0, 10.66667, 3.11111, 10.77778], "texture": "#0"},
+				"west": {"uv": [0, 10.66667, 2, 10.77778], "texture": "#0"},
+				"up": {"uv": [0, 10.66667, 3.11111, 10.88889], "texture": "#0"},
+				"down": {"uv": [0, 10.66667, 3.11111, 10.88889], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.8, -4, 3],
+			"to": [4.8, 32, 7],
+			"rotation": {"angle": 45, "axis": "x", "origin": [-3, -38, -17]},
+			"faces": {
+				"north": {"uv": [3.55556, 0, 5.35556, 16], "texture": "#0"},
+				"east": {"uv": [3.55556, 0, 5.33333, 16], "texture": "#0"},
+				"south": {"uv": [5.33333, 0, 3.57778, 16], "texture": "#0"},
+				"west": {"uv": [5.33333, 0, 3.55556, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 0], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Sword",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}
