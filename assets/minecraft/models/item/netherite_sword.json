@@ -1,0 +1,104 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_sword"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1000
+            },
+            "model": "custom/tools/light/sword_white"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1001
+            },
+            "model": "custom/tools/light/sword_orange"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1002
+            },
+            "model": "custom/tools/light/sword_magenta"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003
+            },
+            "model": "custom/tools/light/sword_lightblue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1004
+            },
+            "model": "custom/tools/light/sword_yellow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1005
+            },
+            "model": "custom/tools/light/sword_lime"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006
+            },
+            "model": "custom/tools/light/sword_pink"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1007
+            },
+            "model": "custom/tools/light/sword_gray"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1008
+            },
+            "model": "custom/tools/light/sword_lightgray"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1009
+            },
+            "model": "custom/tools/light/sword_cyan"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1010
+            },
+            "model": "custom/tools/light/sword_purple"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1011
+            },
+            "model": "custom/tools/light/sword_blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1012
+            },
+            "model": "custom/tools/light/sword_brown"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1013
+            },
+            "model": "custom/tools/light/sword_green"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1014
+            },
+            "model": "custom/tools/light/sword_red"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1015
+            },
+            "model": "custom/tools/light/sword_black"
+        }
+    ]
+}

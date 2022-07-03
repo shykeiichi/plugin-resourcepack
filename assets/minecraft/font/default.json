@@ -546,6 +546,151 @@
             "chars": [
                 "\uEFD8"
             ]
+        },
+        
+        {
+            "type": "bitmap",
+            "file": "minecraft:recipe/lightswordwhite.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\uEFD9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:recipe/lightswordorange.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\uEFDA"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:recipe/lightswordmagenta.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\uEFDB"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:recipe/lightswordlightblue.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\uEFDC"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:recipe/lightswordyellow.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\uEFDD"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:recipe/lightswordlime.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\uEFDE"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:recipe/lightswordpink.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\uEFDF"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:recipe/lightswordgray.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\uEFE0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:recipe/lightswordlightgray.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\uEFE1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:recipe/lightswordcyan.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\uEFE2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:recipe/lightswordpurple.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\uEFE3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:recipe/lightswordblue.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\uEFE4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:recipe/lightswordbrown.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\uEFE5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:recipe/lightswordgreen.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\uEFE6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:recipe/lightswordred.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\uEFE7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:recipe/lightswordblack.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\uEFE8"
+            ]
         }
     ]
 }
