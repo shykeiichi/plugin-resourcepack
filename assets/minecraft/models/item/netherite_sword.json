@@ -99,6 +99,12 @@
                 "custom_model_data": 1015
             },
             "model": "custom/tools/light/sword_black"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1016
+            },
+            "model": "custom/tools/viking/mjolnir"
         }
     ]
 }

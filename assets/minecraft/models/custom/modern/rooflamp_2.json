@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "models/modern/rooflamp_1",
+		"particle": "models/modern/rooflamp_1"
+	},
+	"elements": [
+		{
+			"from": [7, -16, -9],
+			"to": [9, 20, -7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 23, -24]},
+			"faces": {
+				"north": {"uv": [6, 16, 7, 0], "texture": "#0"},
+				"east": {"uv": [6, 16, 7, 0], "texture": "#0"},
+				"south": {"uv": [6, 16, 7, 0], "texture": "#0"},
+				"west": {"uv": [6, 16, 7, 0], "texture": "#0"},
+				"up": {"uv": [6, 1, 7, 0], "texture": "#0"},
+				"down": {"uv": [6, 1, 7, 0], "texture": "#0"}
+			}
+		}
+	]
+}

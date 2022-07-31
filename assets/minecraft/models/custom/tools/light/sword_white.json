@@ -89,5 +89,6 @@
 				"down": {"uv": [0, 0, 3, 0], "texture": "#missing"}
 			}
 		}
-	]
+	],
+	"display": {}
 }

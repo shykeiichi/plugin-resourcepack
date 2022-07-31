@@ -167,6 +167,31 @@
                 "custom_model_data": 1053
             },
             "model": "custom/statue/technobladesword"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 1054
+            },
+            "model": "custom/modern/rooflamp_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1055
+            },
+            "model": "custom/modern/rooflamp_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1056
+            },
+            "model": "custom/modern/rooflamp_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1057
+            },
+            "model": "custom/modern/rooflamp_4"
         }
     ]
 }
