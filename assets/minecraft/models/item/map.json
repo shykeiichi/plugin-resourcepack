@@ -1,0 +1,495 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/map",
+        "layer1": "item/map_overlay"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1000
+            },
+            "model": "custom/map/gwgg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1001
+            },
+            "model": "custom/map/gwww"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1002
+            },
+            "model": "custom/map/ssgg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003
+            },
+            "model": "custom/map/gwss"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1004
+            },
+            "model": "custom/map/swss"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1005
+            },
+            "model": "custom/map/ssgw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006
+            },
+            "model": "custom/map/wwsw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1007
+            },
+            "model": "custom/map/gswg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1008
+            },
+            "model": "custom/map/wggg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1009
+            },
+            "model": "custom/map/gwsg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1010
+            },
+            "model": "custom/map/gwgs"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1011
+            },
+            "model": "custom/map/gwsw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1012
+            },
+            "model": "custom/map/wwgg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1013
+            },
+            "model": "custom/map/wsgs"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1014
+            },
+            "model": "custom/map/gsgg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1015
+            },
+            "model": "custom/map/swww"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1016
+            },
+            "model": "custom/map/wsgg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1017
+            },
+            "model": "custom/map/gsww"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1018
+            },
+            "model": "custom/map/sssw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1019
+            },
+            "model": "custom/map/wggw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1020
+            },
+            "model": "custom/map/wswg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1021
+            },
+            "model": "custom/map/sgwg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1022
+            },
+            "model": "custom/map/swgs"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1023
+            },
+            "model": "custom/map/sgws"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1024
+            },
+            "model": "custom/map/ggwg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1025
+            },
+            "model": "custom/map/wsws"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1026
+            },
+            "model": "custom/map/swsw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1027
+            },
+            "model": "custom/map/wgsw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1028
+            },
+            "model": "custom/map/swgw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1029
+            },
+            "model": "custom/map/sssg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1030
+            },
+            "model": "custom/map/wwww"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1031
+            },
+            "model": "custom/map/ggsw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1032
+            },
+            "model": "custom/map/swgg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1033
+            },
+            "model": "custom/map/sgss"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1034
+            },
+            "model": "custom/map/wsgw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1035
+            },
+            "model": "custom/map/gwws"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1036
+            },
+            "model": "custom/map/gsgs"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1037
+            },
+            "model": "custom/map/sgsw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1038
+            },
+            "model": "custom/map/gggw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1039
+            },
+            "model": "custom/map/wssw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1040
+            },
+            "model": "custom/map/ggws"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1041
+            },
+            "model": "custom/map/gggg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1042
+            },
+            "model": "custom/map/wgws"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1043
+            },
+            "model": "custom/map/wgss"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1044
+            },
+            "model": "custom/map/swsg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1045
+            },
+            "model": "custom/map/sswg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1046
+            },
+            "model": "custom/map/gssw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1047
+            },
+            "model": "custom/map/ssws"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1048
+            },
+            "model": "custom/map/gwwg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1049
+            },
+            "model": "custom/map/ggss"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1050
+            },
+            "model": "custom/map/wwws"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1051
+            },
+            "model": "custom/map/wwgw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1052
+            },
+            "model": "custom/map/wwgs"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1053
+            },
+            "model": "custom/map/swws"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1054
+            },
+            "model": "custom/map/wwwg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1055
+            },
+            "model": "custom/map/wgww"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1056
+            },
+            "model": "custom/map/sgsg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1057
+            },
+            "model": "custom/map/wwsg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1058
+            },
+            "model": "custom/map/ggww"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1059
+            },
+            "model": "custom/map/sggw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1060
+            },
+            "model": "custom/map/wssg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1061
+            },
+            "model": "custom/map/wgwg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1062
+            },
+            "model": "custom/map/gggs"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1063
+            },
+            "model": "custom/map/sgww"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1064
+            },
+            "model": "custom/map/ssgs"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1065
+            },
+            "model": "custom/map/wgsg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1066
+            },
+            "model": "custom/map/gssg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1067
+            },
+            "model": "custom/map/gsss"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1068
+            },
+            "model": "custom/map/gwgw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1069
+            },
+            "model": "custom/map/swwg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1070
+            },
+            "model": "custom/map/gsws"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1071
+            },
+            "model": "custom/map/ssss"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1072
+            },
+            "model": "custom/map/wsss"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1073
+            },
+            "model": "custom/map/ggsg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1074
+            },
+            "model": "custom/map/sggg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1075
+            },
+            "model": "custom/map/gsgw"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1076
+            },
+            "model": "custom/map/wggs"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1077
+            },
+            "model": "custom/map/ssww"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1078
+            },
+            "model": "custom/map/wwss"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1079
+            },
+            "model": "custom/map/wsww"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1080
+            },
+            "model": "custom/map/sggs"
+        }
+    ]
+}

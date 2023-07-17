@@ -1,0 +1,43 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "emoji",
+            "prefix": "emoji/"
+        },
+        {
+            "type": "directory",
+            "source": "font",
+            "prefix": "font/"
+        },
+        {
+            "type": "directory",
+            "source": "gui",
+            "prefix": "gui/"
+        },
+        {
+            "type": "directory",
+            "source": "item",
+            "prefix": "item/"
+        },{
+            "type": "directory",
+            "source": "letters",
+            "prefix": "letters/"
+        },
+        {
+            "type": "directory",
+            "source": "models",
+            "prefix": "models/"
+        },
+        {
+            "type": "directory",
+            "source": "recipe",
+            "prefix": "recipe/"
+        },
+        {
+            "type": "directory",
+            "source": "map",
+            "prefix": "map/"
+        }
+    ]
+}

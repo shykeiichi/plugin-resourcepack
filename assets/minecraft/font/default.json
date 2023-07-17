@@ -28,6 +28,15 @@
             ]
         },
         {
+            "type": "bitmap",
+            "file": "minecraft:gui/map.png",
+            "ascent": 16,
+            "height": 170,
+            "chars": [
+                "\uEff3"
+            ]
+        },
+        {
             "type": "ttf",
             "file": "minecraft:negative_spaces.ttf",
             "shift": [0.0, 0.0],
