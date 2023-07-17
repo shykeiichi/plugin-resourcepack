@@ -1,0 +1,1 @@
+{"parent": "minecraft:item/generated", "textures": {"layer0": "minecraft:map/wwggn"}, "display": {"gui": {"scale": [1.2, 1.2, 1.2]}}}

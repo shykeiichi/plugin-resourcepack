@@ -4,7 +4,7 @@ files = os.listdir("textures/map/")
 
 i = 999
 
-finalfile = '{"parent": "item/generated","textures": {"layer0": "item/map","layer1": "item/map_overlay"},"overrides": ['
+# finalfile = '{"parent": "item/generated","textures": {"layer0": "item/map","layer1": "item/map_overlay"},"overrides": ['
 
 for fullfilename in files:
     i += 1
@@ -12,22 +12,25 @@ for fullfilename in files:
     
     # print('MapLookup.put("' + filename + '", ' + str(i) + ');')
 
-    file = open(f"models/custom/map/{filename}.json", "r")
+    js = '{"parent": "minecraft:item/generated", "textures": {"layer0": "minecraft:map/abcdabcd"}, "display": {"gui": {"scale": [1.2, 1.2, 1.2]}}}'
+    js = js.replace("abcdabcd", filename)
 
-    current_file = json.loads(file.read())
+    # file = open(f"models/custom/map/{filename}.json", "r")
 
-    current_file["display"] = {
-        "gui": {
-            "scale": [1.2, 1.2, 1.2]
-        }
-    }
+    # current_file = json.loads(file.read())
+
+    # current_file["display"] = {
+    #     "gui": {
+    #         "scale": [1.2, 1.2, 1.2]
+    #     }
+    # }
 
     file = open(f"models/custom/map/{filename}.json", "w")
 
 
-    file.write(json.dumps(current_file))
+    file.write(js)
 
-    # file.write('{"parent": "minecraft:item/generated","textures": {"layer0": "minecraft:map/' + filename + '"}}')
+    # file.write(json.dumps(json.loads('{"parent": "minecraft:item/generated","textures": {"layer0": "minecraft:map/' + filename + '"}}')))
     
     # predicate = '{"predicate": {"custom_model_data": ' + str(i) + '},"model": "custom/map/' + filename + '"},'
 
