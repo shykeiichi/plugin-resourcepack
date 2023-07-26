@@ -1,0 +1,44 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stick"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1000
+            },
+            "model": "custom/gui/empty"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1001
+            },
+            "model": "custom/gui/user"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1002
+            },
+            "model": "custom/gui/user_add"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003
+            },
+            "model": "custom/gui/enabled"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1004
+            },
+            "model": "custom/gui/disabled"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1005
+            },
+            "model": "custom/gui/back"
+        }
+    ]
+}

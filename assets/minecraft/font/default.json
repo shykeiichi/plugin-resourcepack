@@ -37,6 +37,96 @@
             ]
         },
         {
+            "type": "bitmap",
+            "file": "minecraft:gui/marker/marker_0.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEff4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/marker/marker_1.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEff5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/marker/marker_2.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEff6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/marker/marker_3.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEff7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/marker/marker_4.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEff8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/marker/marker_5.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEff9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/marker/marker_6.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEffa"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/marker/marker_7.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEffb"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/chunk.png",
+            "ascent": 7,
+            "height": 170,
+            "chars": [
+                "\uEffc"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/blank.png",
+            "ascent": 7,
+            "height": 170,
+            "chars": [
+                "\uEffd"
+            ]
+        },
+        {
             "type": "ttf",
             "file": "minecraft:negative_spaces.ttf",
             "shift": [0.0, 0.0],
